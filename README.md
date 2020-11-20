@@ -1,4 +1,4 @@
-    Al siguiente script ud lo debe editar para acomodarlo al formato que le interese, como ser jpg, png, docs, etc.
+Al siguiente script ud lo debe editar para acomodarlo al formato que le interese, como ser jpg, png, docs, etc.
 
 # Foremost
 Foremost es un programa de recuperación de datos forenses para Linux que se utiliza para recuperar archivos utilizando sus encabezados, pies de página y estructuras de datos a través de un proceso conocido como tallado de archivos. Aunque está escrito para uso policial, está disponible gratuitamente y puede usarse como una herramienta general de recuperación de datos.
